@@ -1,0 +1,71 @@
+
+
+body
+{ 
+    height:1000 px;
+    width: 100%;
+    
+}
+
+.jumbotron
+{
+    background-image: url("underwater.jpg"); height: 250px; width: auto;
+    height:1500px;
+    width:100%;
+    font-family: cursive; bold;
+    color: white;
+    position:center;
+}
+
+h1
+{font-family: cursive; center;
+
+
+}
+.navbar navbar-default
+{
+    url("img/underwater.jpg"); height: 250px; width: auto;
+}
+
+.row
+{
+    background-image:url("underwater.jpg);
+    margin:75px;
+}
+
+}
+
+jumbotron 
+{ 
+    position:  center;
+    
+}
+container2
+{
+    height:800px;
+    width:50px;
+}
+.modal
+{
+    padding:300px;
+    background-image: url("underwater.jpg");
+}
+
+.item active p
+{    color:blue;
+.form
+
+{   padding:50px; 
+    margin-top: 75px; 
+     height:800px;
+     width:350px;
+     border:white;
+     background-image: url("underwater.jpg");
+     color: white;
+}
+
+.container 
+{ 
+    background-image: url(underwater.jpg)
+    
+}
